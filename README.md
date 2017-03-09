@@ -1,1 +1,1 @@
-# Java programs for calculating average current and voltage measurements
+Java programs for calculating average current and voltage measurements
